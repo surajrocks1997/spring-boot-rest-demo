@@ -7,7 +7,6 @@ import javax.persistence.EntityManager;
 import org.hibernate.Session;
 import org.hibernate.query.Query;
 import org.springframework.stereotype.Repository;
-import org.springframework.transaction.annotation.Transactional;
 
 import com.example.demo.entity.Employee;
 
